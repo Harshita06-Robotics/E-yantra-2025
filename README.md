@@ -1,12 +1,12 @@
-## CropDrop Autonomous Robot ##
+# CropDrop Autonomous Robot 
 
 An autonomous agricultural robot developed for the e-Yantra Robotics Competition 2025.
 
-# Overview
+## Overview
 
 The robot combines embedded control, sensor integration, PID control, reinforcement learning, and simulation-based testing.
 
-# Key Features
+## Key Features
 
 * STM32-based embedded control
 * Sensor-based line following
@@ -14,7 +14,7 @@ The robot combines embedded control, sensor integration, PID control, reinforcem
 * Q-learning-based decision making
 * CoppeliaSim simulation environment
 
-# Workflow
+## Workflow
 
 Sensors
    ↓
@@ -28,7 +28,7 @@ Motor Commands
    ↓
 Robot Motion
 
-# Technologies
+## Technologies
 
 * STM32
 * C/C++
