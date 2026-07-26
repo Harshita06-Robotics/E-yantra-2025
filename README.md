@@ -16,17 +16,7 @@ The robot combines embedded control, sensor integration, PID control, reinforcem
 
 ## Workflow
 
-Sensors
-   ↓
-Sensor Processing
-   ↓
-State Extraction
-   ↓
-PID / Q-Learning Controller
-   ↓
-Motor Commands
-   ↓
-Robot Motion
+Sensors ---- Sensor Processing ---- State Extraction ---- PID / Q-Learning Controller ---- Motor Commands
 
 ## Technologies
 
